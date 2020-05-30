@@ -1,0 +1,7 @@
+{
+  "env": {
+    "url": "http://shop.demoqa.com/my-account/"
+  },
+  "projectId": "14pqbh",
+  "reporter": "mochawesome"
+}
